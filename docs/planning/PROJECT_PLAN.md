@@ -36,8 +36,8 @@
 
 2. Database Design
 
-- [ ] Create ERD
-- [ ] Make sql script
+- [x] Create ERD
+- [x] Make sql script
 
 3. User Management
 
